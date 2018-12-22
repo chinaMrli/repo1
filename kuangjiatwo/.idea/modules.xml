@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven/maven.iml" filepath="$PROJECT_DIR$/maven/maven.iml" />
+      <module fileurl="file://E:/JAVA/框架/maven_day02/代码/maven_day02_1/maven_day02_1.iml" filepath="E:/JAVA/框架/maven_day02/代码/maven_day02_1/maven_day02_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven/maven_day02_dao/maven_day02_dao.iml" filepath="$PROJECT_DIR$/maven/maven_day02_dao/maven_day02_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven/maven_day02_service/maven_day02_service.iml" filepath="$PROJECT_DIR$/maven/maven_day02_service/maven_day02_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_day02_text1/maven_day02_text1.iml" filepath="$PROJECT_DIR$/maven_day02_text1/maven_day02_text1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven/maven_day02_web/maven_day02_web.iml" filepath="$PROJECT_DIR$/maven/maven_day02_web/maven_day02_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle/oracle.iml" filepath="$PROJECT_DIR$/oracle/oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_day01_test1/springmvc_day01_test1.iml" filepath="$PROJECT_DIR$/springmvc_day01_test1/springmvc_day01_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_day02_test011/springmvc_day02_test011.iml" filepath="$PROJECT_DIR$/springmvc_day02_test011/springmvc_day02_test011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_day02_test1/springmvc_day02_test1.iml" filepath="$PROJECT_DIR$/springmvc_day02_test1/springmvc_day02_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_day02_tets4/springmvc_day02_tets4.iml" filepath="$PROJECT_DIR$/springmvc_day02_tets4/springmvc_day02_tets4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>

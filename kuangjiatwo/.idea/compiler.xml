@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven_day02_1" />
+        <module name="maven_day02_dao" />
+        <module name="maven_day02_service" />
+        <module name="maven_day02_text1" />
+        <module name="maven_day02_web" />
+        <module name="oracle" />
+        <module name="springmvc_day01_test1" />
+        <module name="springmvc_day02_test011" />
+        <module name="springmvc_day02_test1" />
+        <module name="springmvc_day02_tets4" />
+        <module name="ssm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven" target="1.5" />
+      <module name="maven_day02_1" target="1.5" />
+      <module name="maven_day02_dao" target="1.5" />
+      <module name="maven_day02_service" target="1.5" />
+      <module name="maven_day02_text1" target="1.5" />
+      <module name="maven_day02_web" target="1.5" />
+      <module name="oracle" target="1.5" />
+      <module name="springmvc_day01_01" target="1.8" />
+      <module name="springmvc_day01_test1" target="1.7" />
+      <module name="springmvc_day02_test011" target="1.8" />
+      <module name="springmvc_day02_test1" target="1.8" />
+      <module name="springmvc_day02_test2" target="1.8" />
+      <module name="springmvc_day02_test3" target="1.8" />
+      <module name="springmvc_day02_tets4" target="1.8" />
+      <module name="ssm" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
